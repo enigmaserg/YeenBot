@@ -1,0 +1,30 @@
+{
+  "name": "yeenbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enigmaserg/YeenBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Yeen",
+    "Bot"
+  ],
+  "author": "EnigmaSerg & Qladi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enigmaserg/YeenBot/issues"
+  },
+  "homepage": "https://github.com/enigmaserg/YeenBot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.2.0",
+    "mongoose-slugs": "^0.0.4"
+  }
+}
